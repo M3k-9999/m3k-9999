@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a professional System Administrator with over 4 years of experience managing complex systems. I am currently transitioning into the DevOps field, where I am learning and applying principles of automation, monitoring, and continuous improvement. I have a proven track record of effectively identifying and solving technical problems, along with an excellent ability to research and learn to find solutions. With a solid Back-End background, I can bridge the gap between development needs and infrastructure stability to deliver the best possible experience.
+I am a DevOps | Cloud Engineer with a solid foundation of over 4 years of hands-on experience in IT infrastructure and systems administration. My passion lies in bridging the gap between development and operations by automating workflows, optimizing cloud environments, and ensuring enterprise-grade system reliability.
 
 
 ## 🌐 Socials:
